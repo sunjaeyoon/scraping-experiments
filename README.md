@@ -24,8 +24,17 @@ with the time and price point.
 
 Results cannot be fully given at this time. There are pros and
 cons for each of the methods. For speed and efficiency, requests
-is better whereas selenium is better for beginners 
-and avoiding bot walls. 
+is faster whereas selenium is better for beginners 
+and avoiding bot walls.
+
+Pros for requests library
+- Interacts well with APIs
+- Fast
+
+Pros for Selenium
+- Easy, good for beginners
+- easier to avoid bot walls/ captchas
+- has built in element finders
 
 This experiment did not come out as I planned it to be however,
 it did spark my interest in how these websites worked to detect
